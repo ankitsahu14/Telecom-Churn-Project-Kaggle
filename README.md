@@ -1,1 +1,0 @@
-# Telecom-Churn-Project-Kaggle
